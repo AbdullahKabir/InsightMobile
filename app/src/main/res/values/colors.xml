@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Resource for drawer-->
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="white">#ffff</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="colorAccent">#2b121a</color>
+    <color name="charcoal">#303030</color>
+    <!--Resource for intro slide-->
+    <color name="slide_2">#009688</color>
+    <color name="slide_1">#795548</color>
+    <color name="slide_3">#8BC34A</color>
+    <color name="slide_4">#2d4aec</color>
+
+    <color name="active_dots">#fffafa</color>
+    <color name="inactive_dots">#83878b</color>
+
+
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccent1">#FF4081</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#ff0004</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="tabTextColor">#ffff</color>
+
+</resources>

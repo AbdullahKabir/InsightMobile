@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Insight</string>
+    <string name="splashWelcome">Welcome! Let\'s Explore</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="last_name">Last Name</string>
+    <string name="redirecting_to_login">Already Part of the family?</string>
+    <string name="user_name">User Name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="login">Login</string>
+    <string name="need_an_account">Need an account?</string>
+    <string name="explore_website">Explore Website</string>
+    <string name="see_newsfeed">See Newsfeed</string>
+</resources>
